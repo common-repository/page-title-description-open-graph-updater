@@ -1,0 +1,65 @@
+#toplevel_page_dieno_quick_edit_pages_setting img {
+    width: 20px;
+}
+.edit_content_container input {
+    width: 100%;
+}
+.update_content_btns .update_btn {
+    border: 1px solid #0ab30a;
+    border-radius: 50px;
+    background: #0ab30a;
+    color: #fff;
+    padding: 1px 4px;
+    margin-right: 15px;
+    margin-top: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+.update_content_btns .update_btn:hover,.update_content_btns .cancel_update_btn:hover {
+    opacity: 0.5;
+}
+.update_content_btns .cancel_update_btn {
+    border: 1px solid #ff0b0b;
+    border-radius: 50px;
+    background: #ff0b0b;
+    color: #fff;
+    padding: 1px 5px;
+    margin-right: 15px;
+    margin-top: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+#toplevel_page_dieno_quick_edit_pages_setting img {
+    filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%);
+}
+#dieno_pages_list td {
+    white-space: unset !important;
+}
+.toplevel_page_dieno_quick_edit_pages_setting .container {
+    width: 100%;
+    max-width: 100%;
+}
+#upload_image_button {
+    width: auto;
+    margin-top: 7px;
+    margin-right: 15px;
+}
+#dieno_pages_list td {
+    vertical-align: middle;
+}
+.entry_meta .plugin_title, .entry_meta .plugin_sub_title, .entry_meta .brand_desc {
+    margin: 15px 0px;
+}
+.quick_edit_container .plugin_title {
+    font-size: 32px;
+}
+.quick_edit_container .plugin_sub_title {
+    font-size: 16px;
+    font-weight: normal;
+}
+.quick_edit_container .brand_desc {
+    font-size: 16px;
+}
+.quick_edit_container #dieno_pages_list_length select {
+    width: 80px;
+}
